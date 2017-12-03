@@ -1,0 +1,34 @@
+header {
+  background-color: #191970;
+  color: white;
+  font-weight: bold;
+  text-align: left;
+  font-size: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+body {
+  font-family: fantasy;
+  font-size: 4rem;
+  font-weight: lighter;
+  color: #FFFAF0;
+  text-align: center;
+  background-color: black;
+  background-repeat: no-repeat;
+  background-image: url("resources/imgs/us.JPG");
+  background-size: contain, cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  margin: 0rem;
+}
+
+footer {
+  background-color: #191970;
+  color: white;
+  font-weight: bold;
+  text-align: left;
+  font-size: 1rem;
+  padding-top: 3rem;
+}
